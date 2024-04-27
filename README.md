@@ -1,7 +1,7 @@
 # BMI Calculator App
 
 
-bmi
+A Calculator for Body Mass Index based on the lovely designs  It's a multi-screen application with basic features and intense customization.
 
 ## BMI Calculator App Preview
 
